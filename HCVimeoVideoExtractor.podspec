@@ -29,6 +29,8 @@ HCVimeoVideoExtractor is an easy way to extract the Vimeo video details like tit
    s.social_media_url = 'https://twitter.com/sup3rm0'
 
   s.ios.deployment_target = '9.0'
+  s.tvos.deployment_target = '9.0'
+
   s.swift_version = '4.0'
 
   s.source_files = 'Sources/HCVimeoVideoExtractor/**/*'
